@@ -1,0 +1,182 @@
+[ 
+  {
+    "id":1,
+  "Title": "The Woman King",
+  "Year": "2022",
+  "rating":7.84,
+  "Runtime": "118 min",
+  "Poster": "https://image.tmdb.org/t/p/w1280/438QXt1E3WJWb3PqNniK0tAE5c1.jpg",
+  "desc":"The story of the Agojie, the all-female unit of warriors who protected the African Kingdom of Dahomey in the 1800s with skills and a fierceness unlike anything the world has ever seen, and General Nanisca as she trains the next generation of recruits and readies them for battle against an enemy determined to destroy their way of life."
+},
+    {
+      "id":2,
+    "Title": "The Lion King",
+    "Year": "2019",
+    "rating": 5.5,
+    "Runtime": "118 min",
+    "Poster": "https://image.tmdb.org/t/p/w1280/sKCr78MXSLixwmZ8DyJLrpMsd15.jpg",
+    "desc":"A young lion prince is cast out of his pride by his cruel uncle, who claims he killed his father. While the uncle rules with an iron paw, the prince grows up beyond the Savannah, living by a philosophy: No worries for the rest of your days. But when his past comes to haunt him, the young prince must decide his fate: Will he remain an outcast or face his demons and become what he needs to be?"
+  },
+  {
+      "id":3,
+    "Title": "Mowgli: Legend of the Jungle",
+    "Year": "2018",
+    "rating": 5.5,
+    "Runtime": "104 min",
+    "Poster": "https://image.tmdb.org/t/p/w1280/clRnzMsFoMIdC7I5JsG6dnnHH8l.jpg",
+    "desc":"A human child raised by wolves, must face off against a menacing tiger named Shere Khan, as well as his own origins."
+  },
+  {
+      "id":4,
+    "Title": "Doctor Strange",
+    "Year": "2016",
+    "rating": 5.5,
+    "Runtime": "115 min",
+    "desc":"After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_SX300.jpg"
+    },
+  {
+      "id":5,
+    "Title": "John Wick",
+    "Year": "2014",
+    "rating": 5.5,
+    "Runtime": "101 min",
+    "desc":"Ex-hitman John Wick comes out of retirement to track down the gangsters that took everything from him.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjA1ODgzMF5BMl5BanBnXkFtZTgwMTM2MTI4MjE@._V1_SX300.jpg"
+  },
+  {
+    "id":6,
+  "Title": "Detective Knight: Rogue",
+  "Year": "2014",
+  "rating": 5.5,
+  "Runtime": "101 min",
+  "desc":"As Los Angeles prepares for Halloween, mask-wearing armed robbers critically wound detective James Knight’s partner in a shootout following a heist. With Knight in hot pursuit, the bandits flee L.A. for New York, where the detective’s dark past collides with his present case and threatens to tear his world apart…unless redemption can claim Knight first.",
+  "Poster": "https://image.tmdb.org/t/p/w1280/2wj5iUJ2B5AQ1lFctJgUrHHsp9B.jpg"
+},
+{
+  "id":7,
+"Title": "Black Adam",
+"Year": "2022",
+"rating": 5.5,
+"Runtime": "101 min",
+"desc":"Nearly 5,000 years after he was bestowed with the almighty powers of the Egyptian gods—and imprisoned just as quickly—Black Adam is freed from his earthly tomb, ready to unleash his unique form of justice on the modern world.",
+"Poster": "https://image.tmdb.org/t/p/w1280/pFlaoHTZeyNkG83vxsAJiGzfSsa.jpg"
+},
+{
+"id":8,
+"Title": "The Big 4",
+"Year": "2022",
+"rating": 5.5,
+"Runtime": "101 min",
+"desc":"A by-the-book female detective teams up with four down-on-their-luck assassins to investigate her father's murder.",
+"Poster": "https://image.tmdb.org/t/p/w1280/jrw684BhFJZ9Jac6KJda3hSQkxt.jpg"
+},
+{
+"id":9,
+"Title": "Troll",
+"Year": "2022",
+"rating": 5.5,
+"Runtime": "101 min",
+"desc":"Deep inside the mountain of Dovre, something gigantic awakens after being trapped for a thousand years. Destroying everything in its path, the creature is fast approaching the capital of Norway. But how do you stop something you thought only existed in Norwegian folklore?",
+"Poster": "https://image.tmdb.org/t/p/w1280/9z4jRr43JdtU66P0iy8h18OyLql.jpg"
+},
+{
+"id":10,
+"Title": "Savage Salvation",
+"Year": "2022",
+"rating": 5.3,
+"Runtime": "101 min",
+"desc":"Newly engaged Shelby John and Ruby Red want a fresh start after their struggles with addiction, but when Shelby discovers his beloved Ruby dead on their porch, he embarks on a vengeful killing spree of the dealers who supplied her. Armed with nothing but adrenaline and a nail gun, Shelby begins to unleash chaos on the town’s criminal underbelly, as he hunt’s down crime lord Coyote. Sheriff Church must race against the clock to put an end to Shelby's vigilante justice before the entire town descends into a bloodbath.",
+"Poster": "https://image.tmdb.org/t/p/w1280/fJRt3mmZEvf8gQzoNLzjPtWpc9o.jpg"
+},
+{
+"id":11,
+"Title": "Violent Night",
+"Year": "2022",
+"rating": 7.7,
+"Runtime": "101 min",
+"desc":"When a team of mercenaries breaks into a wealthy family compound on Christmas Eve, taking everyone inside hostage, the team isn’t prepared for a surprise combatant: Santa Claus is on the grounds, and he’s about to show why this Nick is no saint.",
+"Poster": "https://image.tmdb.org/t/p/w1280/1XSYOP0JjjyMz1irihvWywro82r.jpg"
+},
+{
+"id":12,
+"Title": "七つの大罪: 怨嗟のエジンバラ",
+"Year": "2022",
+"rating": 8.1,
+"Runtime": "101 min",
+"desc":"Tristan, the son of Meliodas and Elizabeth, inherits the power of the Goddess Clan and can heal people’s wounds and injuries, but he often ends up hurting others due to his inability to control his Demon Clan power. To protect his family, Tristan heads to Edinburgh Castle and meets a host of new friends along the way.",
+"Poster": "https://image.tmdb.org/t/p/w1280/bXKrI97G2Gz0GBsoJTPgoiyihAR.jpg"
+},
+{
+  "id":13,
+  "Title": "Puss in Boots: The Last Wish",
+  "Year": "2022",
+  "rating": 8.6,
+  "Runtime": "101 min",
+  "desc":"Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
+  "Poster": "https://image.tmdb.org/t/p/w1280/1NqwE6LP9IEdOZ57NCT51ftHtWT.jpg"
+  },
+{
+"id":14,
+"Title": "Strange World",
+"Year": "2022",
+"rating": 6.5,
+"Runtime": "101 min",
+"desc":"A journey deep into an uncharted and treacherous land, where fantastical creatures await the legendary Clades—a family of explorers whose differences threaten to topple their latest, and by far most crucial, mission.",
+"Poster":"https://image.tmdb.org/t/p/w1280/fHMqfsYyl3lskPK2RiFRwhzwuep.jpg"
+},
+{
+  "id":15,
+  "Title": "M3GAN",
+  "Year": "2022",
+  "rating": 6.5,
+  "Runtime": "101 min",
+  "desc":"A brilliant toy company roboticist uses artificial intelligence to develop M3GAN, a life-like doll programmed to emotionally bond with her newly orphaned niece. But when the doll's programming works too well, she becomes overprotective of her new friend with terrifying results.",
+  "Poster":"https://image.tmdb.org/t/p/w1280/7CNCv9uhqdwK7Fv4bR4nmDysnd9.jpg"
+  },
+  {
+    "id":16,
+    "Title": "The Pale Blue Eye",
+    "Year": "2022",
+    "rating": 6.5,
+    "Runtime": "101 min",
+    "desc":"West Point, New York, 1830. When a cadet at the burgeoning military academy is found hanged with his heart cut out, the top brass summons former New York City constable Augustus Landor to investigate. While attempting to solve this grisly mystery, the reluctant detective engages the help of one of the cadets: a strange but brilliant young fellow by the name of Edgar Allan Poe",
+    "Poster":"https://image.tmdb.org/t/p/w1280/9xkGlFRqrN8btTLU0KQvOfn2PHr.jpg"
+    },
+    {
+      "id":17,
+      "Title": "Encanto at the Hollywood Bowl",
+      "Year": "2022",
+      "rating": 6.5,
+      "Runtime": "101 min",
+      "desc":"A taped performance of the Encanto Live-to-Film Concert Experience at the Hollywood Bowl. The original cast puts on a miracle of a concert as they sing the favorite songs, accompanied by a full orchestra and 50 person ensemble, and the Hollywood Bowl transforms into Casita!",
+      "Poster":"https://image.tmdb.org/t/p/w1280/sa3Ku5yNVjp8NloWxJoI9dQjvOi.jpg"
+      },
+      {
+        "id":18,
+        "Title": "Black Panther: Wakanda Forever",
+        "Year": "2022",
+        "rating": 6.5,
+        "Runtime": "101 min",
+        "desc":"Queen Ramonda, Shuri, M’Baku, Okoye and the Dora Milaje fight to protect their nation from intervening world powers in the wake of King T’Challa’s death. As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for the kingdom of Wakanda.",
+        "Poster":"https://image.tmdb.org/t/p/w1280/sv1xJUazXeYqALzczSZ3O6nkH75.jpg"
+        },
+        {
+          "id":19,
+          "Title": "The Last Client",
+          "Year": "2022",
+          "rating": 6.5,
+          "Runtime": "101 min",
+          "desc":"Renowned psychologist Susanne (Signe Egholm Olsen) is caught in a living nightmare when her new client (Anton Hjejle) turns out to be a wanted serial killer.",
+          "Poster":"https://image.tmdb.org/t/p/w1280/Agx1zaPXWiiG0wyKhuUJfinaRGJ.jpg"
+          },
+          {
+            "id":20,
+            "Title": "Mal de ojo",
+            "Year": "2022",
+            "rating": 6.5,
+            "Runtime": "101 min",
+            "desc":"Nala, a thirteen-year-old girl from the city, travels with her family to her grandmother's home in the countryside, to try to find a cure for her little sister's mysterious illness - But she'll soon find her granny is not exactly what she seems...",
+            "Poster":"https://image.tmdb.org/t/p/w1280/sChhX2wWgVbTd6j38ADrAfHd4mE.jpg"
+            }
+]
